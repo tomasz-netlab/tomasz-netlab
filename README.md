@@ -35,4 +35,4 @@ Currently on the CCNA path, transitioning from Cisco Packet Tracer to GNS3.
 
 ## Contact
 
-> LinkedIn and other links coming soon.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tomasz--owczarek-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/tomasz-owczarek)
