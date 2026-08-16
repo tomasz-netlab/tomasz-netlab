@@ -24,6 +24,15 @@ Small enterprise-like network lab built in Cisco Packet Tracer. Covers Layer 2 s
 
 ---
 
+### [Lab 02 — L3 Switching, ACL Segmentation and Security Hardening](https://github.com/tomasz-netlab/network-lab-l3-switching-acl-security)
+
+Enterprise-style segmented network in Cisco Packet Tracer, where four zones are routed by a Layer 3 distribution switch and firewalled against each other by a security policy designed from scratch — zone definitions, traffic flow matrix, deployment map and rule detail sheet, built before any configuration. Adds Layer 2 anti-spoofing controls and uses SVIs instead of Lab 01's Router-on-a-Stick. Validated with 26 tests covering both permit and deny cases.
+
+**Topics:** Layer 3 switching (SVIs) · Extended ACLs · Zone segmentation · DHCP Snooping · Dynamic ARP Inspection · Port Security · Rapid-PVST+ · Static routing · DHCP relay  
+**Status:** Published ✅
+
+---
+
 ## Currently learning
 
 - CCNA curriculum — consolidating and expanding knowledge
